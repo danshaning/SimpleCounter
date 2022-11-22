@@ -1,0 +1,20 @@
+html,body{
+    
+}
+#container {
+    height: 300px;
+    width: 400px;
+    border: 2px solid black;
+    margin-left: 600px;
+    padding-top: 100px;
+    text-align: center;
+    background-color: blueviolet;
+}
+#count {
+    text-align: center;
+}
+
+.button{
+    margin-top: 20px;
+    width: 100px;
+}
